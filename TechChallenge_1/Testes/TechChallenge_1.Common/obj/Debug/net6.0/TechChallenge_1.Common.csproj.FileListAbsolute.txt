@@ -1,0 +1,11 @@
+C:\PosFiap\TechChallenge_1\Testes\TechChallenge_1.Common\bin\Debug\net6.0\TechChallenge_1.Common.deps.json
+C:\PosFiap\TechChallenge_1\Testes\TechChallenge_1.Common\bin\Debug\net6.0\TechChallenge_1.Common.dll
+C:\PosFiap\TechChallenge_1\Testes\TechChallenge_1.Common\bin\Debug\net6.0\TechChallenge_1.Common.pdb
+C:\PosFiap\TechChallenge_1\Testes\TechChallenge_1.Common\obj\Debug\net6.0\TechChallenge_1.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\PosFiap\TechChallenge_1\Testes\TechChallenge_1.Common\obj\Debug\net6.0\TechChallenge_1.Common.AssemblyInfoInputs.cache
+C:\PosFiap\TechChallenge_1\Testes\TechChallenge_1.Common\obj\Debug\net6.0\TechChallenge_1.Common.AssemblyInfo.cs
+C:\PosFiap\TechChallenge_1\Testes\TechChallenge_1.Common\obj\Debug\net6.0\TechChallenge_1.Common.csproj.CoreCompileInputs.cache
+C:\PosFiap\TechChallenge_1\Testes\TechChallenge_1.Common\obj\Debug\net6.0\TechChallenge_1.Common.dll
+C:\PosFiap\TechChallenge_1\Testes\TechChallenge_1.Common\obj\Debug\net6.0\refint\TechChallenge_1.Common.dll
+C:\PosFiap\TechChallenge_1\Testes\TechChallenge_1.Common\obj\Debug\net6.0\TechChallenge_1.Common.pdb
+C:\PosFiap\TechChallenge_1\Testes\TechChallenge_1.Common\obj\Debug\net6.0\ref\TechChallenge_1.Common.dll

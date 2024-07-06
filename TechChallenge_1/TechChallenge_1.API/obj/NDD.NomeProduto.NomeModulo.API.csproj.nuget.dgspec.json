@@ -1,0 +1,579 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.API\\TechChallenge_1.API.csproj": {}
+  },
+  "projects": {
+    "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.API\\TechChallenge_1.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.API\\TechChallenge_1.API.csproj",
+        "projectName": "TechChallenge_1.API",
+        "projectPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.API\\TechChallenge_1.API.csproj",
+        "packagesPath": "C:\\Users\\clademir.zampieri\\.nuget\\packages\\",
+        "outputPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\NuGet.Config",
+          "C:\\Users\\clademir.zampieri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-DECollection/_packaging/nddCentralSolucoesPackages/nuget/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-DECollection/_packaging/nddCentralSolucoesPackages/nuget/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-PDICollection/_packaging/NDDPackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Application\\TechChallenge_1.Application.csproj": {
+                "projectPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Application\\TechChallenge_1.Application.csproj"
+              },
+              "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Base\\TechChallenge_1.Base.csproj": {
+                "projectPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Base\\TechChallenge_1.Base.csproj"
+              },
+              "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Domain\\TechChallenge_1.Domain.csproj": {
+                "projectPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Domain\\TechChallenge_1.Domain.csproj"
+              },
+              "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Infra.Data\\TechChallenge_1.Infra.Data.csproj": {
+                "projectPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Infra.Data\\TechChallenge_1.Infra.Data.csproj"
+              },
+              "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Migracoes\\TechChallenge_1.Migracoes.csproj": {
+                "projectPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Migracoes\\TechChallenge_1.Migracoes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.5.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.18.1, )"
+            },
+            "NDD.MicroServico.Base": {
+              "target": "Package",
+              "version": "[2.0.0.2, )"
+            },
+            "NDD.MicroServico.Base.Extensoes": {
+              "target": "Package",
+              "version": "[2.0.0.7, )"
+            },
+            "NDD.MicroServico.Base.Filas": {
+              "target": "Package",
+              "version": "[2.0.0.7, )"
+            },
+            "NDD.MicroServico.Base.ProvedorServico.MSDI": {
+              "target": "Package",
+              "version": "[2.0.0.1, )"
+            },
+            "NDD.MicroServico.Base.Serilog": {
+              "target": "Package",
+              "version": "[2.0.0.2, )"
+            },
+            "NDD.MicroServico.Base.Transporte": {
+              "target": "Package",
+              "version": "[2.0.0.7, )"
+            },
+            "NDD.Microservico.Base.Transporte.RabbitMQ": {
+              "target": "Package",
+              "version": "[2.0.0.7, )"
+            },
+            "NDD.Space.Base.CORS": {
+              "target": "Package",
+              "version": "[2.0.0.1, )"
+            },
+            "NDD.Space.Base.Extensions": {
+              "target": "Package",
+              "version": "[2.0.0.4, )"
+            },
+            "NServiceBus.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "NServiceBus.SimpleInjector": {
+              "target": "Package",
+              "version": "[3.0.5, )"
+            },
+            "SimpleInjector.Integration.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[4.4.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Application\\TechChallenge_1.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Application\\TechChallenge_1.Application.csproj",
+        "projectName": "TechChallenge_1.Application",
+        "projectPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Application\\TechChallenge_1.Application.csproj",
+        "packagesPath": "C:\\Users\\clademir.zampieri\\.nuget\\packages\\",
+        "outputPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\NuGet.Config",
+          "C:\\Users\\clademir.zampieri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-DECollection/_packaging/nddCentralSolucoesPackages/nuget/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-DECollection/_packaging/nddCentralSolucoesPackages/nuget/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-PDICollection/_packaging/NDDPackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Base\\TechChallenge_1.Base.csproj": {
+                "projectPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Base\\TechChallenge_1.Base.csproj"
+              },
+              "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Domain\\TechChallenge_1.Domain.csproj": {
+                "projectPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Domain\\TechChallenge_1.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.5.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "NDD.MicroServico.Base": {
+              "target": "Package",
+              "version": "[2.0.0.2, )"
+            },
+            "NDD.Space.Base.Domain": {
+              "target": "Package",
+              "version": "[2.0.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Base\\TechChallenge_1.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Base\\TechChallenge_1.Base.csproj",
+        "projectName": "TechChallenge_1.Base",
+        "projectPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Base\\TechChallenge_1.Base.csproj",
+        "packagesPath": "C:\\Users\\clademir.zampieri\\.nuget\\packages\\",
+        "outputPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\NuGet.Config",
+          "C:\\Users\\clademir.zampieri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-DECollection/_packaging/nddCentralSolucoesPackages/nuget/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-DECollection/_packaging/nddCentralSolucoesPackages/nuget/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-PDICollection/_packaging/NDDPackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Domain\\TechChallenge_1.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Domain\\TechChallenge_1.Domain.csproj",
+        "projectName": "TechChallenge_1.Domain",
+        "projectPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Domain\\TechChallenge_1.Domain.csproj",
+        "packagesPath": "C:\\Users\\clademir.zampieri\\.nuget\\packages\\",
+        "outputPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\NuGet.Config",
+          "C:\\Users\\clademir.zampieri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-DECollection/_packaging/nddCentralSolucoesPackages/nuget/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-DECollection/_packaging/nddCentralSolucoesPackages/nuget/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-PDICollection/_packaging/NDDPackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NDD.MicroServico.Base.Negocio": {
+              "target": "Package",
+              "version": "[2.0.0.1, )"
+            },
+            "NDD.Space.Base.Database": {
+              "target": "Package",
+              "version": "[2.0.0.1, )"
+            },
+            "NDD.Space.Base.Domain": {
+              "target": "Package",
+              "version": "[2.0.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Infra.Data\\TechChallenge_1.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Infra.Data\\TechChallenge_1.Infra.Data.csproj",
+        "projectName": "TechChallenge_1.Infra.Data",
+        "projectPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Infra.Data\\TechChallenge_1.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\clademir.zampieri\\.nuget\\packages\\",
+        "outputPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\NuGet.Config",
+          "C:\\Users\\clademir.zampieri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-DECollection/_packaging/nddCentralSolucoesPackages/nuget/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-DECollection/_packaging/nddCentralSolucoesPackages/nuget/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-PDICollection/_packaging/NDDPackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Base\\TechChallenge_1.Base.csproj": {
+                "projectPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Base\\TechChallenge_1.Base.csproj"
+              },
+              "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Domain\\TechChallenge_1.Domain.csproj": {
+                "projectPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Domain\\TechChallenge_1.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "NDD.Space.Base.Database": {
+              "target": "Package",
+              "version": "[2.0.0.1, )"
+            },
+            "SimpleInjector": {
+              "target": "Package",
+              "version": "[4.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Migracoes\\TechChallenge_1.Migracoes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Migracoes\\TechChallenge_1.Migracoes.csproj",
+        "projectName": "TechChallenge_1.Migracoes",
+        "projectPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Migracoes\\TechChallenge_1.Migracoes.csproj",
+        "packagesPath": "C:\\Users\\clademir.zampieri\\.nuget\\packages\\",
+        "outputPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Migracoes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\NuGet.Config",
+          "C:\\Users\\clademir.zampieri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-DECollection/_packaging/nddCentralSolucoesPackages/nuget/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-DECollection/_packaging/nddCentralSolucoesPackages/nuget/v3/index.json": {},
+          "https://tfs.ndd.tech/NDD-PDICollection/_packaging/NDDPackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Base\\TechChallenge_1.Base.csproj": {
+                "projectPath": "C:\\GITNDD\\ndd-templates\\Net 6\\ApiTemplate\\Projetos\\TechChallenge_1.Base\\TechChallenge_1.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentMigrator.Runner": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "NDD.Space.Base.Extensions": {
+              "target": "Package",
+              "version": "[2.0.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

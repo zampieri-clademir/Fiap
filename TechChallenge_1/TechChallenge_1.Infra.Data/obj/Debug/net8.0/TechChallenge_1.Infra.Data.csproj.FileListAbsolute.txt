@@ -1,0 +1,17 @@
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Infra.Data\bin\Debug\net8.0\TechChallenge_1.Infra.Data.deps.json
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Infra.Data\bin\Debug\net8.0\TechChallenge_1.Infra.Data.dll
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Infra.Data\bin\Debug\net8.0\TechChallenge_1.Infra.Data.pdb
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Infra.Data\bin\Debug\net8.0\TechChallenge_1.Base.dll
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Infra.Data\bin\Debug\net8.0\TechChallenge_1.Domain.dll
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Infra.Data\bin\Debug\net8.0\TechChallenge_1.Base.pdb
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Infra.Data\bin\Debug\net8.0\TechChallenge_1.Domain.pdb
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Infra.Data\obj\Debug\net8.0\TechChallenge_1.Infra.Data.csproj.AssemblyReference.cache
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Infra.Data\obj\Debug\net8.0\TechChallenge_1.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Infra.Data\obj\Debug\net8.0\TechChallenge_1.Infra.Data.AssemblyInfoInputs.cache
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Infra.Data\obj\Debug\net8.0\TechChallenge_1.Infra.Data.AssemblyInfo.cs
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Infra.Data\obj\Debug\net8.0\TechChallenge_1.Infra.Data.csproj.CoreCompileInputs.cache
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Infra.Data\obj\Debug\net8.0\TechChallenge_1.Infra.Data.csproj.CopyComplete
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Infra.Data\obj\Debug\net8.0\TechChallenge_1.Infra.Data.dll
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Infra.Data\obj\Debug\net8.0\refint\TechChallenge_1.Infra.Data.dll
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Infra.Data\obj\Debug\net8.0\TechChallenge_1.Infra.Data.pdb
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Infra.Data\obj\Debug\net8.0\ref\TechChallenge_1.Infra.Data.dll

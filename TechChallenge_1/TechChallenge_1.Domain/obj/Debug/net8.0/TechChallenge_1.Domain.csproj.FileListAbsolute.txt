@@ -1,0 +1,12 @@
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Domain\bin\Debug\net8.0\TechChallenge_1.Domain.deps.json
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Domain\bin\Debug\net8.0\TechChallenge_1.Domain.dll
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Domain\bin\Debug\net8.0\TechChallenge_1.Domain.pdb
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Domain\obj\Debug\net8.0\TechChallenge_1.Domain.csproj.AssemblyReference.cache
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Domain\obj\Debug\net8.0\TechChallenge_1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Domain\obj\Debug\net8.0\TechChallenge_1.Domain.AssemblyInfoInputs.cache
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Domain\obj\Debug\net8.0\TechChallenge_1.Domain.AssemblyInfo.cs
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Domain\obj\Debug\net8.0\TechChallenge_1.Domain.csproj.CoreCompileInputs.cache
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Domain\obj\Debug\net8.0\TechChallenge_1.Domain.dll
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Domain\obj\Debug\net8.0\refint\TechChallenge_1.Domain.dll
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Domain\obj\Debug\net8.0\TechChallenge_1.Domain.pdb
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Domain\obj\Debug\net8.0\ref\TechChallenge_1.Domain.dll

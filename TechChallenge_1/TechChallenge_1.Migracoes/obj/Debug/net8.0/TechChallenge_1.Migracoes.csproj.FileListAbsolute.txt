@@ -1,0 +1,15 @@
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Migracoes\bin\Debug\net8.0\TechChallenge_1.Migracoes.deps.json
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Migracoes\bin\Debug\net8.0\TechChallenge_1.Migracoes.dll
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Migracoes\bin\Debug\net8.0\TechChallenge_1.Migracoes.pdb
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Migracoes\bin\Debug\net8.0\TechChallenge_1.Base.dll
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Migracoes\bin\Debug\net8.0\TechChallenge_1.Base.pdb
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Migracoes\obj\Debug\net8.0\TechChallenge_1.Migracoes.csproj.AssemblyReference.cache
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Migracoes\obj\Debug\net8.0\TechChallenge_1.Migracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Migracoes\obj\Debug\net8.0\TechChallenge_1.Migracoes.AssemblyInfoInputs.cache
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Migracoes\obj\Debug\net8.0\TechChallenge_1.Migracoes.AssemblyInfo.cs
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Migracoes\obj\Debug\net8.0\TechChallenge_1.Migracoes.csproj.CoreCompileInputs.cache
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Migracoes\obj\Debug\net8.0\TechChallenge_1.Migracoes.csproj.CopyComplete
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Migracoes\obj\Debug\net8.0\TechChallenge_1.Migracoes.dll
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Migracoes\obj\Debug\net8.0\refint\TechChallenge_1.Migracoes.dll
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Migracoes\obj\Debug\net8.0\TechChallenge_1.Migracoes.pdb
+C:\PosFiap\TechChallenge_1\TechChallenge_1.Migracoes\obj\Debug\net8.0\ref\TechChallenge_1.Migracoes.dll
