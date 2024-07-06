@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fif/Qv8BR6Y=",
+  "dgSpecHash": "G+dIj7DP1lo=",
   "success": true,
-  "projectFilePath": "C:\\PosFiap\\TechChallenge_1\\TechChallenge_1.Infra.Data\\TechChallenge_1.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\TechChallenge_1.Infra.Data\\TechChallenge_1.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\clademir.zampieri\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\clademir.zampieri\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

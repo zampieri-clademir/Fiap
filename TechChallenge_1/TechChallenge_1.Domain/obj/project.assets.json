@@ -66,11 +66,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PosFiap\\TechChallenge_1\\TechChallenge_1.Domain\\TechChallenge_1.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\TechChallenge_1.Domain\\TechChallenge_1.Domain.csproj",
       "projectName": "TechChallenge_1.Domain",
-      "projectPath": "C:\\PosFiap\\TechChallenge_1\\TechChallenge_1.Domain\\TechChallenge_1.Domain.csproj",
+      "projectPath": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\TechChallenge_1.Domain\\TechChallenge_1.Domain.csproj",
       "packagesPath": "C:\\Users\\clademir.zampieri\\.nuget\\packages\\",
-      "outputPath": "C:\\PosFiap\\TechChallenge_1\\TechChallenge_1.Domain\\obj\\",
+      "outputPath": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\TechChallenge_1.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
