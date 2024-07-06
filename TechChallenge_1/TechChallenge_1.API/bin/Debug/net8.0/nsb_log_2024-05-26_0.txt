@@ -1,1 +1,0 @@
-﻿2024-05-26 23:16:01.701 INFO  Logging to 'C:\PosFiap\TechChallenge_1\TechChallenge_1.API\bin\Debug\net8.0\' with level Info
