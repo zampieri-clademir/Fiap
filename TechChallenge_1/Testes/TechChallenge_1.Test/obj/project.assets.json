@@ -6626,11 +6626,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PosFiap\\TechChallenge_1\\Testes\\TechChallenge_1.Test\\TechChallenge_1.Test.csproj",
+      "projectUniqueName": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\Testes\\TechChallenge_1.Test\\TechChallenge_1.Test.csproj",
       "projectName": "TechChallenge_1.Test",
-      "projectPath": "C:\\PosFiap\\TechChallenge_1\\Testes\\TechChallenge_1.Test\\TechChallenge_1.Test.csproj",
+      "projectPath": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\Testes\\TechChallenge_1.Test\\TechChallenge_1.Test.csproj",
       "packagesPath": "C:\\Users\\clademir.zampieri\\.nuget\\packages\\",
-      "outputPath": "C:\\PosFiap\\TechChallenge_1\\Testes\\TechChallenge_1.Test\\obj\\",
+      "outputPath": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\Testes\\TechChallenge_1.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6652,11 +6652,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\PosFiap\\TechChallenge_1\\TechChallenge_1.Domain\\TechChallenge_1.Domain.csproj": {
-              "projectPath": "C:\\PosFiap\\TechChallenge_1\\TechChallenge_1.Domain\\TechChallenge_1.Domain.csproj"
+            "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\TechChallenge_1.Domain\\TechChallenge_1.Domain.csproj": {
+              "projectPath": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\TechChallenge_1.Domain\\TechChallenge_1.Domain.csproj"
             },
-            "C:\\PosFiap\\TechChallenge_1\\TechChallenge_1.Infra.Data\\TechChallenge_1.Infra.Data.csproj": {
-              "projectPath": "C:\\PosFiap\\TechChallenge_1\\TechChallenge_1.Infra.Data\\TechChallenge_1.Infra.Data.csproj"
+            "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\TechChallenge_1.Infra.Data\\TechChallenge_1.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\TechChallenge_1.Infra.Data\\TechChallenge_1.Infra.Data.csproj"
             }
           }
         }

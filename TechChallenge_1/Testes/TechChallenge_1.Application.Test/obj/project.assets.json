@@ -4591,11 +4591,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PosFiap\\TechChallenge_1\\Testes\\TechChallenge_1.Application.Test\\TechChallenge_1.Application.Test.csproj",
+      "projectUniqueName": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\Testes\\TechChallenge_1.Application.Test\\TechChallenge_1.Application.Test.csproj",
       "projectName": "TechChallenge_1.Application.Test",
-      "projectPath": "C:\\PosFiap\\TechChallenge_1\\Testes\\TechChallenge_1.Application.Test\\TechChallenge_1.Application.Test.csproj",
+      "projectPath": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\Testes\\TechChallenge_1.Application.Test\\TechChallenge_1.Application.Test.csproj",
       "packagesPath": "C:\\Users\\clademir.zampieri\\.nuget\\packages\\",
-      "outputPath": "C:\\PosFiap\\TechChallenge_1\\Testes\\TechChallenge_1.Application.Test\\obj\\",
+      "outputPath": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\Testes\\TechChallenge_1.Application.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4617,8 +4617,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\PosFiap\\TechChallenge_1\\TechChallenge_1.Application\\TechChallenge_1.Application.csproj": {
-              "projectPath": "C:\\PosFiap\\TechChallenge_1\\TechChallenge_1.Application\\TechChallenge_1.Application.csproj"
+            "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\TechChallenge_1.Application\\TechChallenge_1.Application.csproj": {
+              "projectPath": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\TechChallenge_1.Application\\TechChallenge_1.Application.csproj"
             }
           }
         }

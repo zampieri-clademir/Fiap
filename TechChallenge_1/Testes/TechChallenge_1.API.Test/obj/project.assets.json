@@ -9382,11 +9382,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PosFiap\\TechChallenge_1\\Testes\\TechChallenge_1.API.Test\\TechChallenge_1.API.Test.csproj",
+      "projectUniqueName": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\Testes\\TechChallenge_1.API.Test\\TechChallenge_1.API.Test.csproj",
       "projectName": "TechChallenge_1.API.Test",
-      "projectPath": "C:\\PosFiap\\TechChallenge_1\\Testes\\TechChallenge_1.API.Test\\TechChallenge_1.API.Test.csproj",
+      "projectPath": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\Testes\\TechChallenge_1.API.Test\\TechChallenge_1.API.Test.csproj",
       "packagesPath": "C:\\Users\\clademir.zampieri\\.nuget\\packages\\",
-      "outputPath": "C:\\PosFiap\\TechChallenge_1\\Testes\\TechChallenge_1.API.Test\\obj\\",
+      "outputPath": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\Testes\\TechChallenge_1.API.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9408,8 +9408,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\PosFiap\\TechChallenge_1\\TechChallenge_1.API\\TechChallenge_1.API.csproj": {
-              "projectPath": "C:\\PosFiap\\TechChallenge_1\\TechChallenge_1.API\\TechChallenge_1.API.csproj"
+            "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\TechChallenge_1.API\\TechChallenge_1.API.csproj": {
+              "projectPath": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\TechChallenge_1.API\\TechChallenge_1.API.csproj"
             }
           }
         }

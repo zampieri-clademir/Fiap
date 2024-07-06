@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zL+JeaSlwIs=",
+  "dgSpecHash": "Ec1/dRtLqgQ=",
   "success": true,
-  "projectFilePath": "C:\\PosFiap\\TechChallenge_1\\TechChallenge_1.Migracoes\\TechChallenge_1.Migracoes.csproj",
+  "projectFilePath": "C:\\Users\\clademir.zampieri\\OneDrive - NDD.Tech\\Documentos\\GitHub\\Fiap\\TechChallenge_1\\TechChallenge_1.Migracoes\\TechChallenge_1.Migracoes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\clademir.zampieri\\.nuget\\packages\\fluentmigrator\\3.3.2\\fluentmigrator.3.3.2.nupkg.sha512",
     "C:\\Users\\clademir.zampieri\\.nuget\\packages\\fluentmigrator.abstractions\\3.3.2\\fluentmigrator.abstractions.3.3.2.nupkg.sha512",
