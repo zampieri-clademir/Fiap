@@ -1,16 +1,12 @@
 ﻿using Microsoft.AspNetCore.HttpOverrides;
-
 using NServiceBus.SimpleInjector;
-
 using SimpleInjector;
-
 using System.Diagnostics.CodeAnalysis;
 
 using TechChallenge_1.API.Extensions;
 using TechChallenge_1.Base.Configuracoes;
-using TechChallenge_1.Migracoes;
 using TechChallenge_1.Domain;
-using TechChallenge_1.Application.Features.Contato.AdicionarContato;
+using TechChallenge_1.Migracoes;
 
 namespace TechChallenge_1.API
 {
